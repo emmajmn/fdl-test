@@ -1,0 +1,27 @@
+apply plugin: 'java-library'
+apply plugin: "kotlin"
+
+repositories {
+    mavenCentral()
+}
+
+java {
+    targetCompatibility = JavaVersion.VERSION_1_8
+    sourceCompatibility = JavaVersion.VERSION_1_8
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+
+dependencies {
+    compileOnly "com.android.tools.lint:lint-api:27.2.1"
+    testImplementation "com.android.tools.lint:lint:27.2.1"
+    testImplementation "com.android.tools.lint:lint-tests:27.2.1"
+}
+
+jar {
+    manifest {
+        attributes("Lint-Registry-v2": "com.firebase.lint.QuickstartIssueRegistry")
+    }
+}

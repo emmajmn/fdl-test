@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="178e947a-e480-4ec8-9e65-19b524a92af8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/.google/packaging.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/java/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/java/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/kotlin/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/java/com/google/samples/quickstart/admobexample/kotlin/SecondFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable/ic_launcher_big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/navigation/nav_graph_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/navigation/nav_graph_kotlin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admob/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/androidTest/java/com/google/firebase/quickstart/analytics/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/analytics-sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/java/ImageFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/java/ImageInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/kotlin/ImageFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/kotlin/ImageInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/java/com/google/firebase/quickstart/analytics/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-hdpi/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-hdpi/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-hdpi/flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-hdpi/whitebalance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-mdpi/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-mdpi/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-mdpi/flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-mdpi/whitebalance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xhdpi/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xhdpi/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xhdpi/flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xhdpi/whitebalance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xxhdpi/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xxhdpi/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xxhdpi/flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable-xxhdpi/whitebalance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analytics/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/.google/packaging.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/androidTest/java/com/google/samples/quickstart/appindexing/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/androidTest/java/com/google/samples/quickstart/appindexing/kotlin/MainActivityTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/java/AppIndexingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/java/AppIndexingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/java/StickerProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/kotlin/AppIndexingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/kotlin/AppIndexingUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/java/com/google/samples/quickstart/appindexing/kotlin/StickerProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/drawable-xxxhdpi/watermark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-indexing/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/AnonymousAuthFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/ChooserFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/CustomAuthFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/EmailPasswordFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/FacebookLoginFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/FirebaseUIFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/GenericIdpFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/GoogleSignInFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/MultiFactorEnrollFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/MultiFactorFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/MultiFactorSignInFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/MultiFactorUnenrollFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/PasswordlessActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/PhoneAuthFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/TokenBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/AnonymousAuthFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/BaseActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/BaseFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/ChooserFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/CustomAuthFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/EmailPasswordFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/FacebookLoginFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/FirebaseUIFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/GenericIdpFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/GoogleSignInFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/MultiFactorEnrollFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/MultiFactorFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/MultiFactorSignInFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/MultiFactorUnenrollFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/PasswordlessActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/PhoneAuthFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/kotlin/TokenBroadcastReceiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-hdpi/ic_person_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-mdpi/ic_person_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-xhdpi/ic_person_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-xxhdpi/ic_person_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/drawable-xxxhdpi/ic_person_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/activity_passwordless.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_anonymous_auth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_chooser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_custom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_emailpassword.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_facebook.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_firebase_ui.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_generic_idp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_google.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_multi_factor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_multi_factor_sign_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_passwordless.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/fragment_phone_auth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/layout/item_spinner_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/navigation/nav_graph_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/navigation/nav_graph_kotlin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/web/auth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_pull_request.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/androidTest/java/com/google/samples/quickstart/config/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/java/com/google/samples/quickstart/config/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/java/com/google/samples/quickstart/config/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/java/com/google/samples/quickstart/config/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/main/res/xml/remote_config_defaults.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy_mock_google_services_json.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/androidTest/java/com/google/samples/quickstart/crash/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/java/com/google/samples/quickstart/crash/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/java/com/google/samples/quickstart/crash/java/CustomKeySamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/java/com/google/samples/quickstart/crash/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/java/com/google/samples/quickstart/crash/kotlin/CustomKeySamples.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/java/com/google/samples/quickstart/crash/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/app/test-proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crash/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/NewPostFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/PostDetailFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/SignInFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/listfragments/MyPostsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/listfragments/MyTopPostsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/listfragments/PostListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/listfragments/RecentPostsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/viewholder/CommentViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/java/viewholder/PostViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/BaseFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/MainFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/NewPostFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/PostDetailFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/SignInFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/listfragments/MyPostsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/listfragments/MyTopPostsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/listfragments/PostListFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/listfragments/RecentPostsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/models/Comment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/models/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/models/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/viewholder/CommentViewHolder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/java/com/google/firebase/quickstart/database/kotlin/viewholder/PostViewHolder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/ic_action_account_circle_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/ic_image_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/ic_navigation_check_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/ic_toggle_star_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-hdpi/ic_toggle_star_outline_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/ic_action_account_circle_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/ic_image_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/ic_navigation_check_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/ic_toggle_star_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-mdpi/ic_toggle_star_outline_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/ic_action_account_circle_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/ic_image_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/ic_navigation_check_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/ic_toggle_star_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xhdpi/ic_toggle_star_outline_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/ic_action_account_circle_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/ic_image_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/ic_navigation_check_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/ic_toggle_star_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxhdpi/ic_toggle_star_outline_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxxhdpi/ic_action_account_circle_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxxhdpi/ic_image_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxxhdpi/ic_navigation_check_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxxhdpi/ic_toggle_star_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/drawable-xxxhdpi/ic_toggle_star_outline_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/activity_new_post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/activity_post_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/activity_sign_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/fragment_all_posts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/fragment_new_post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/fragment_post_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/fragment_sign_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/include_post_author.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/include_post_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/item_comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/layout/item_post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/navigation/nav_graph_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/navigation/nav_graph_kotlin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/androidTest/java/com/google/firebase/quickstart/deeplinks/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/java/com/google/firebase/quickstart/deeplinks/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/java/com/google/firebase/quickstart/deeplinks/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/java/com/google/firebase/quickstart/deeplinks/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamiclinks/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/accounts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/androidTest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/FilterDialogFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/Filters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/RatingDialogFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/RestaurantDetailFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/adapter/FirestoreAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/adapter/RatingAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/adapter/RestaurantAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/model/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/model/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/util/RatingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/util/RestaurantUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/java/viewmodel/MainActivityViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/FilterDialogFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/Filters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/MainFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/RatingDialogFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/RestaurantDetailFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/adapter/FirestoreAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/adapter/RatingAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/adapter/RestaurantAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/model/Rating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/model/Restaurant.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/util/RatingUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/util/RestaurantUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/java/com/google/firebase/example/fireeats/kotlin/viewmodel/MainActivityViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/anim/slide_in_from_left.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/anim/slide_in_from_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/anim/slide_out_to_left.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/anim/slide_out_to_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable-hdpi/pizza_monster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable-mdpi/pizza_monster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable-nodpi/food_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable-xhdpi/pizza_monster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable-xxhdpi/pizza_monster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/bg_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/gradient_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_add_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_arrow_back_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_close_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_fastfood_white_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_filter_list_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_local_dining_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_monetization_on_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_place_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_restaurant_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/drawable/ic_sort_white_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/dialog_filters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/dialog_rating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/fragment_restaurant_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/item_rating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/layout/item_restaurant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/navigation/nav_graph_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/navigation/nav_graph_kotlin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/app/test-proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/docs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/docs/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/indexes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore/test_setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/androidTest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/androidTest/java/com/google/samples/quickstart/functions/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/androidTest/java/com/google/samples/quickstart/functions/TestAddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/java/com/google/samples/quickstart/functions/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/java/com/google/samples/quickstart/functions/java/FunctionsMessagingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/java/com/google/samples/quickstart/functions/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/java/com/google/samples/quickstart/functions/kotlin/FunctionsMessagingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/java/com/google/samples/quickstart/functions/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-hdpi/ic_stat_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-mdpi/ic_stat_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-xhdpi/ic_stat_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/drawable-xxhdpi/ic_stat_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/app/test-proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions/sanitizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/test_setup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/androidTest/java/com/google/firebase/fiamquickstart/InstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/java/com/google/firebase/fiamquickstart/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/java/com/google/firebase/fiamquickstart/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/java/com/google/firebase/fiamquickstart/kotlin/KotlinMainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/docs/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inappmessaging/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/BaseEntryChoiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/ChoiceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/activity_entry_choice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/item_choice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/HungarianNotationDetector.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/InvalidImportDetector.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/QuickstartIssueRegistry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/bin/test/com/firebase/lint/InvalidImportDetectorTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/HungarianNotationDetector.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/InvalidImportDetector.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/QuickstartIssueRegistry.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lint/src/test/java/com/firebase/lint/InvalidImportDetectorTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lintchecks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lintchecks/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lintchecks/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/lintchecks/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invites/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/androidTest/java/com/google/firebase/quickstart/fcm/MainActivityEspressoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/java/MyFirebaseMessagingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/java/MyWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/kotlin/MyFirebaseMessagingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/java/com/google/firebase/quickstart/fcm/kotlin/MyWorker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-hdpi-v11/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-hdpi/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-mdpi-v11/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-mdpi/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xhdpi-v11/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xhdpi/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xxhdpi-v11/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xxhdpi/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xxxhdpi-v11/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/drawable-xxxhdpi/ic_stat_ic_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlkit-langid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlkit-smartreply/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlkit-translate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlkit/.google/packaging.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlkit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/assets/default_content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/java/com/google/firebase/quickstart/perfmon/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/java/com/google/firebase/quickstart/perfmon/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/java/com/google/firebase/quickstart/perfmon/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perf/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/checksnippets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/androidTest/java/com/google/firebase/quickstart/firebasestorage/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/androidTest/java/com/google/firebase/quickstart/firebasestorage/ServiceIdlingResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/EntryChoiceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/java/MyBaseTaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/java/MyDownloadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/java/MyUploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/kotlin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/kotlin/MyBaseTaskService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/kotlin/MyDownloadService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/java/com/google/firebase/quickstart/firebasestorage/kotlin/MyUploadService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-hdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-hdpi/ic_check_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-hdpi/ic_error_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-hdpi/ic_file_upload_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-mdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-mdpi/ic_check_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-mdpi/ic_error_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-mdpi/ic_file_upload_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xhdpi/ic_check_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xhdpi/ic_error_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xhdpi/ic_file_upload_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxhdpi/firebase_lockup_400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxhdpi/ic_check_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxhdpi/ic_error_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxhdpi/ic_file_upload_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxxhdpi/ic_check_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxxhdpi/ic_error_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/drawable-xxxhdpi/ic_file_upload_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/main/res/xml/file_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/src/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/emmajamin/.android/avd/Pixel_4_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fdl-test" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uwT6BuMbZrRYtbsSWW14t61LBW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@/Users/emmajamin/.android/avd/Pixel_4_API_30.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-06T13:53:31.859215Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1625573310584" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="fdl-test.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178e947a-e480-4ec8-9e65-19b524a92af8" name="Default Changelist" comment="" />
+      <created>1625575474712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625575474712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="254" key="#Gradle" timestamp="1625577573095">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="490" y="254" key="#Gradle/0.0.1440.900@0.0.1440.900" timestamp="1625577573095" />
+    <state x="245" y="186" key="#PSD" timestamp="1625579479990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="245" y="186" key="#PSD/0.0.1440.900@0.0.1440.900" timestamp="1625579479990" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1625577848114">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1625577848114" />
+  </component>
+</project>
